@@ -1,6 +1,6 @@
-# Flask-FastAPI Starter Kit
+# FastAPI Starter Kit
 
-Flask-RESTPlus API architecture to be used as a baseline for other apps.
+FastAPI architecture to be used as a baseline for other apps.
 
 ## Set Up
 
